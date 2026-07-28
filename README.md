@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0097-interleaving-string](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0097-interleaving-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0097-interleaving-string](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0097-interleaving-string) |
 <!---LeetCode Topics End-->
