@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -33,8 +34,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0097-interleaving-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0097-interleaving-string) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
