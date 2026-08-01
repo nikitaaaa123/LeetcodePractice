@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0075-sort-colors) |
+| [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0097-interleaving-string) |
+| [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
