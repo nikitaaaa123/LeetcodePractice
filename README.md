@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3536-maximum-product-of-two-digits) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
