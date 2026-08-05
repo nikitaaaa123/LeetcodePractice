@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -96,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3310-remove-methods-from-project) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
