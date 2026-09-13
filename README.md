@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1386-cinema-seat-allocation) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
