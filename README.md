@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0836-rectangle-overlap) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/nikitaaaa123/LeetcodePractice/tree/master/0835-image-overlap) |
